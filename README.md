@@ -1,4 +1,4 @@
 # tejesvin-demo
 this is my first  Git repository
 <br>
-Author-Tejesvin
+Author-Tejesvin (Apana college)
